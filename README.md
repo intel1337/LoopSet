@@ -8,7 +8,9 @@ Python Youtube Video Downloader - 8K to 144p / MP4 - MP3 / Fast Download
 # Config
 
 1 - Open a shell
+
 2 - Type pip install pytube
+
 2 - Type pip install colorama
 
 ## Start 
