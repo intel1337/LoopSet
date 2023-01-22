@@ -3,7 +3,8 @@ Python Youtube Video Downloader - 8K to 144p / MP4 - MP3 / Fast Download
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/93615583/213894789-000a3fcd-ee53-4371-8710-d1691b0e8a28.png))
+![image](https://user-images.githubusercontent.com/93615583/213894820-055bc2ea-795b-428f-b04f-3daba4643b30.png)
+
 
 # Config
 
